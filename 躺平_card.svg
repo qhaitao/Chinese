@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="600" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#F4F1DE"/>
+    
+    <!-- Title -->
+    <text x="200" y="50" font-family="KingHwa_OldSong" font-size="32" text-anchor="middle" fill="#3D405B">汉语新解</text>
+    
+    <!-- Main Word -->
+    <text x="200" y="120" font-family="KingHwa_OldSong" font-size="48" text-anchor="middle" fill="#E07A5F">躺平</text>
+    
+    <!-- Divider -->
+    <line x1="20" y1="150" x2="380" y2="150" stroke="#3D405B" stroke-width="1"/>
+    
+    <!-- Interpretation -->
+    <text x="200" y="200" font-family="KingHwa_OldSong" font-size="20" text-anchor="middle" fill="#3D405B">最后的反抗，</text>
+    <text x="200" y="230" font-family="KingHwa_OldSong" font-size="20" text-anchor="middle" fill="#3D405B">以静止对抗加速。</text>
+    <text x="200" y="260" font-family="KingHwa_OldSong" font-size="20" text-anchor="middle" fill="#3D405B">当站着成为一种奢侈，</text>
+    <text x="200" y="290" font-family="KingHwa_OldSong" font-size="20" text-anchor="middle" fill="#3D405B">躺下便是种革命。</text>
+    <text x="200" y="320" font-family="KingHwa_OldSong" font-size="20" text-anchor="middle" fill="#3D405B">这是沉默的宣言。</text>
+    
+    <!-- Decorative Elements -->
+    <rect x="40" y="400" width="20" height="20" fill="none" stroke="#81B29A" stroke-width="1" transform="rotate(0, 50, 410)"/>
+    <rect x="340" y="450" width="25" height="25" fill="none" stroke="#81B29A" stroke-width="1" transform="rotate(0, 352.5, 462.5)"/>
+    <rect x="180" y="500" width="15" height="15" fill="none" stroke="#81B29A" stroke-width="1" transform="rotate(0, 187.5, 507.5)"/>
+</svg>
